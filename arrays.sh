@@ -8,7 +8,7 @@ Players=("tina" "simth" "ritu")
 
 #inside array we always refer values with index and it starts with 0####
 
-echo "first Player: ${Player[0]}"
+echo "First Player: ${Player[0]}"
 echo "all Players: ${Players[@]}"
 
 ###here @ means everythinhg inside the array##
