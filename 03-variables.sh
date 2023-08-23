@@ -11,5 +11,5 @@ Number1=$4
 NUmber2=$5
 
 Sum=$((Number1+Number2))
-
+ #need to run inside the command to ADD 2 numbers
 echo "addition of next two numbers is: $Sum"
