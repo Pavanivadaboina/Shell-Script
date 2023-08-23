@@ -11,3 +11,13 @@
 echo "$Name1: $Name1 is a good boy"
 echo "$Name2: $Name2 friends"
 echo "$Name3: $Name3 is intelligent"
+
+
+#addition of two no's
+
+No1=$1
+No2=$2
+
+Sum=$((No1+No2))
+
+echo addition of two numbers is: $(Sum)
