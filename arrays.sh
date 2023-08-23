@@ -13,3 +13,11 @@ echo "all Players: ${Players[@]}"
 
 ###here @ means everythinhg inside the array##
 ##the values [0] [1] are index values
+
+
+
+Games=("hockey" "badminton" "cricket")
+
+echo "first game: ${Games[0]}"
+echo "second game:${Games[1]}"
+echo "all games": ${Games[@]}""
