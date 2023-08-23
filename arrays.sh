@@ -8,8 +8,8 @@ Players=("tina" "simth" "ritu")
 
 #inside array we always refer values with index and it starts with 0####
 
-echo "frist player: $player[0]"
-echo "all players: $players[@]"
+echo "frist Player: $Player[0]"
+echo "all Players: $Players[@]"
 
 ###here @ means everythinhg inside the array##
 ##the values [0] [1] are index values
