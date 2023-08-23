@@ -16,3 +16,12 @@ echo "$Name1: $Name1 is a good boy"
 echo "$Name2: $Name2 friends"
 echo "$Name3: $Name3 is intelligent"
 
+
+
+#special variables fot inputs
+
+echo script name - $0
+echo first arg - $1
+echo sec arg - $2
+echo all arg - $*
+echo no of arg - $#
