@@ -15,3 +15,5 @@ read -s password
 echo "password entered is:  $password"
 
 #### user name and password can be use to connect with the database######
+
+# read -s comment will read the line without physical appearance
