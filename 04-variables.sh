@@ -13,3 +13,5 @@ read -s password
 
 #this is for practice purpose we shouldn't print the username/password
 echo "password entered is:  $password"
+
+#### user name and password can be use to connect with the database######
