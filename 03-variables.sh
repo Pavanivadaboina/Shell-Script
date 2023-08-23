@@ -12,4 +12,4 @@ NUmber2=$5
 
 Sum=$((Number1+Number2))
 
-echo "addition of two numbers is: $Sum"
+echo "addition of next two numbers is: $Sum"
