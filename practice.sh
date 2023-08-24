@@ -1,6 +1,7 @@
-a=10
-b=20
 
 
-echo first no is: "$a"
-echo all no: "$b"
+
+echo first no is: "$1"
+echo sec no: "$2"
+
+echo all arg: $@
