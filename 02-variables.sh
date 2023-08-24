@@ -18,7 +18,7 @@ echo "$Name3: $Name3 is intelligent"
 
 
 
-#special variables fot inputs
+#special variables for inputs
 
 
 echo script name - $0

@@ -1,4 +1,6 @@
 
+#special variables
+
 
 
 echo first no is: "$1"

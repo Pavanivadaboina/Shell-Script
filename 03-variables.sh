@@ -1,5 +1,6 @@
 #addition of two no's
 
+##special vairbales
 No1=$1
 No2=$2
 
