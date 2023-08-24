@@ -18,4 +18,5 @@ copy the desired code
 
 component=cart
 
-d
+
+# we can send inputs to the functions and we can access through special variables
