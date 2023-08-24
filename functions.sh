@@ -8,3 +8,14 @@ function_name() {
 
 #how to call a function
 function_name
+
+
+#####
+
+func_nodejs(){
+copy the desired code
+}
+
+component=cart
+
+d
