@@ -8,8 +8,8 @@ noddles_veg=$1
 
 if [ "$noddles_veg -gt 200" ];
 then
-  echo show "$noddles_veg" avaiable
+  echo  "$noddles_veg" avaiable
   else
-    echo show "$noddles_veg" not avilable
+    echo  "$noddles_veg" not avilable
 fi
 
