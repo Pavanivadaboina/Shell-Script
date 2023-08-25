@@ -6,10 +6,10 @@
 noddles_veg=$1
 
 
-if [ "noddles_veg -gt 200" ];
+if [ "$noddles_veg -gt 200" ];
 then
-  echo show no item avaiable
+  echo show "$noddles_veg" avaiable
   else
-    echo show item is avilable
+    echo show "$noddles_veg" not avilable
 fi
 
