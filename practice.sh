@@ -15,3 +15,7 @@ echo all arg: $@
 
 
 #crontab
+
+#how to check user exits or not
+
+#"id" commonad --  id Rls -l
