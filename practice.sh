@@ -6,5 +6,12 @@ echo sec no: "$2"
 
 echo all arg: $@
 
+## checking log files cat /tmp/Roboshop-shell.log
 
-service_path=${}
+## new topics
+
+## exit status and redirectories
+
+
+
+#crontab
