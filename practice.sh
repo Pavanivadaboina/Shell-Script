@@ -19,3 +19,5 @@ echo all arg: $@
 #how to check user exits or not
 
 #"id" commonad --  id Rls -l
+
+#logs check command ------ cat /tmp/Roboshop-shell.log
