@@ -21,3 +21,7 @@ echo all arg: $@
 #"id" commonad --  id Rls -l
 
 #logs check command ------ cat /tmp/Roboshop-shell.log
+
+#commad >file #this will overwrite the content
+        >>file #this will append to the content
+        &>> #this will append output and error to the file
