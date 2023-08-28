@@ -30,10 +30,27 @@ echo all arg: $@
 #exit status check         $? -eq/ne/ge/le/
 
 
-# quote concept:
+#  1) quote concept:
 
 " pupose of quot is to disable the speicailty of speical character"
 
 eg: echo " **** show $a **** "
 single quote: it will print as it is
 Double quote: it will allows to print variables
+
+#  2) redicectores:
+
+  #input (<) and output (>) redirector
+  # output is of two types
+    #output - 1> or >
+    #ERROR - 2>
+    #OUTPUT+ERROR - &>
+
+    #APPEND - >>, &>>
+
+#    3) Loop:
+
+#  if we want to execute the command again and again we use loop and there are two cre=iterias
+
+  # while - expression based loop
+  # for -- input based  loop
