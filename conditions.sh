@@ -29,3 +29,4 @@ case $1 in
       echo fruit not found
       ;;
     esac
+# we dont prefer case commands coz it have limitaions as it can do only string  comparsions

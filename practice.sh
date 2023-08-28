@@ -28,3 +28,7 @@ echo all arg: $@
 
 
 #exit status check         $? -eq/ne/ge/le/
+
+
+# quote concept:
+
