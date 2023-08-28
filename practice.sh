@@ -32,3 +32,8 @@ echo all arg: $@
 
 # quote concept:
 
+" pupose of quot is to disable the speicailty of speical character"
+
+eg: echo " **** show $a **** "
+single quote: it will print as it is
+Double quote: it will allows to print variables
