@@ -25,3 +25,6 @@ echo all arg: $@
 #commad >file #this will overwrite the content
         >>file #this will append to the content
         &>> #this will append output and error to the file
+
+
+#exit status check         $? -eq/ne/ge/le/

@@ -13,3 +13,19 @@ then
     echo  "$noddles_veg" not avilable
 fi
 
+
+
+fruit=$1
+
+case $1 in
+
+    apple)
+      echo price - 10$
+      ;;
+    mango)
+      echo price - 30$
+      ;;
+    *)
+      echo fruit not found
+      ;;
+    esac
